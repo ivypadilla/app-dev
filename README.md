@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # Inside Out 2
 
 **Release Date**: June 14, 2024  
